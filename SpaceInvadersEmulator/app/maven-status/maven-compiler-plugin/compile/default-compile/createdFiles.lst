@@ -1,0 +1,7 @@
+org\emu\cpu\CPU8080.class
+org\emu\machine\SpaceInvadersMachine.class
+org\emu\cpu\CPU8080$IOHandler.class
+org\emu\mem\Memory.class
+org\emu\gui\SpaceInvadersApp.class
+org\emu\gui\SpaceInvadersApp$1.class
+org\emu\gui\SpaceInvadersApp$2.class

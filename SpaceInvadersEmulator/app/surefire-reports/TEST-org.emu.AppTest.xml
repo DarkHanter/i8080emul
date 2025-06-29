@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.emu.AppTest" time="0.009" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="D:\Task_test\i8080emul\target\test-classes;D:\Task_test\i8080emul\target\classes;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-controls\17.0.10\javafx-controls-17.0.10.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-controls\17.0.10\javafx-controls-17.0.10-win.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-graphics\17.0.10\javafx-graphics-17.0.10.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-graphics\17.0.10\javafx-graphics-17.0.10-win.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-base\17.0.10\javafx-base-17.0.10.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-base\17.0.10\javafx-base-17.0.10-win.jar;C:\Users\Hanter\.m2\repository\junit\junit\3.8.2\junit-3.8.2.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Novosibirsk"/>
+    <property name="user.country.format" value="RU"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Users\Hanter\.jdks\temurin-17.0.15\bin"/>
+    <property name="sun.java.command" value="C:\Users\Hanter\AppData\Local\Temp\surefire13748028721632230690\surefirebooter-20250630012239330_3.jar C:\Users\Hanter\AppData\Local\Temp\surefire13748028721632230690 2025-06-30T01-22-39_185-jvmRun1 surefire-20250630012239330_1tmp surefire_0-20250630012239330_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Task_test\i8080emul\target\test-classes;D:\Task_test\i8080emul\target\classes;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-controls\17.0.10\javafx-controls-17.0.10.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-controls\17.0.10\javafx-controls-17.0.10-win.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-graphics\17.0.10\javafx-graphics-17.0.10.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-graphics\17.0.10\javafx-graphics-17.0.10-win.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-base\17.0.10\javafx-base-17.0.10.jar;C:\Users\Hanter\.m2\repository\org\openjfx\javafx-base\17.0.10\javafx-base-17.0.10-win.jar;C:\Users\Hanter\.m2\repository\junit\junit\3.8.2\junit-3.8.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Hanter"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-04-15"/>
+    <property name="java.home" value="C:\Users\Hanter\.jdks\temurin-17.0.15"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Task_test\i8080emul"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Hanter\AppData\Local\Temp\surefire13748028721632230690\surefirebooter-20250630012239330_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.15+6"/>
+    <property name="user.name" value="Hanter"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.15+6"/>
+    <property name="localRepository" value="C:\Users\Hanter\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\Hanter\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.15"/>
+    <property name="user.dir" value="D:\Task_test\i8080emul"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.language.format" value="ru"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Users\Hanter\.jdks\temurin-17.0.15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Hanter\.jdks\temurin-17.0.15\bin;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\PROGRA~2\ATT\Graphviz\bin;C:\Program Files\Graphviz\bin;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\Hanter\.jpm\windows\bin;C:\apache-maven-3.9.9\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\WiX Toolset v6.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\Hanter\.jdks\temurin-17.0.15\bin;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\PROGRA~2\ATT\Graphviz\bin;C:\Program Files\Graphviz\bin;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\Hanter\.jpm\windows\bin;C:\apache-maven-3.9.9\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\WiX Toolset v6.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.15+6"/>
+    <property name="java.specification.maintenance.version" value="1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="org.emu.AppTest" time="0.001"/>
+</testsuite>
